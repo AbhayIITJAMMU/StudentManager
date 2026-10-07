@@ -1,0 +1,3 @@
+read -p "Enter the folder name: " folder_name
+mkdir -p "$folder_name"
+echo "Process complete. Folder '$folder_name' is ready."
